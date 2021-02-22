@@ -3,6 +3,7 @@
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
+  "homepage": "https://FemiAdesola.github.io/apiok",
   "scripts": {
     "dev": "nodemon index",
     "deploy": "gh-pages -d apiok"
